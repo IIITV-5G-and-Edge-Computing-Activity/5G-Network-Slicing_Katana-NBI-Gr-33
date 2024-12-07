@@ -64,3 +64,10 @@ This project showcases how Katana NBI enables service providers to efficiently m
 - [Katana Slice Manager Documentation](https://katana-slice-manager-docs.com)
 - [5G Network Slicing White Paper](https://5g-network-slicing-paper.com)
 - [MongoDB Documentation](https://www.mongodb.com/docs/)
+
+### 👥 **Team Members**
+-Aditya Gore (202151058)
+-Manas Ingle (202151086)
+-Suraj Suryavanshi (202151166)
+-Pranav Khude (202151077)
+-Naman Lambat (202151096)
