@@ -44,7 +44,7 @@ This project showcases how Katana NBI enables service providers to efficiently m
 ### 🖥️ **How to Use**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/katana-nbi-network-slicing.git
+   [git clone https://github.com/your-username/katana-nbi-network-slicing.git](https://github.com/IIITV-5G-and-Edge-Computing-Activity/5G-Network-Slicing_Katana-NBI-Gr-33/tree/main)
    ```
 2. Follow the setup instructions in the [Installation Guide](./docs/installation.md).  
 3. Run the simulation scripts in the `simulation` folder to explore different network slicing scenarios.  
